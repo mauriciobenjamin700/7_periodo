@@ -1,0 +1,45 @@
+Aqui estão as informações sobre funções trigonométricas, funções exponenciais e funções logarítmicas:
+
+### Funções Trigonométricas:
+- \( a \) = hipotenusa
+- \( b \) = cateto oposto
+- \( c \) = cateto adjacente
+- \( \sin \) -> Seno = \( \frac{b}{a} \)
+- \( \cos \) -> Cosseno = \( \frac{c}{a} \)
+- \( \tan \) -> Tangente = \( \frac{b}{c} \)
+- \( g \) -> graus = \( 360^\circ \)
+- \( f(x) = \sin(x) \) e \( g(x) = \cos(x) \), onde \( x \) é medido em radianos (\( g(360) = 2 \pi \), \( g(180) = \pi \))
+- \( D_f = D_g = \mathbb{R} \)
+- \( \text{Im}(f) = \text{Im}(g) = [-1, 1] \)
+
+### Propriedades:
+1. \( \sin(x + 2\pi) = \sin(x) \) e \( \cos(x + 2\pi) = \cos(x) \)
+2. \( \sin(a+b) = \sin(a) \cdot \cos(b) + \cos(a) \cdot \sin(b) \) e \( \cos(a+b) = \cos(a) \cdot \cos(b) - \sin(a) \cdot \sin(b) \)
+3. \( \sin(-x) = -\sin(x) \) e \( \cos(-x) = \cos(x) \)
+4. \( (\sin(x))^2 + (\cos(x))^2 = 1 \)
+5. \( \sin(x) = 0 \) \( \Leftrightarrow \) \( x = n \cdot \pi \), \( n \in \mathbb{Z} \) e \( \cos(x) = 0 \) \( \Leftrightarrow \) \( x = \frac{n}{2} + n \cdot \pi \), \( n \in \mathbb{Z} \)
+
+### Função Tangente:
+- \( h(x) = \tan(x) = \frac{\sin(x)}{\cos(x)} \)
+  1. \( D_h = \{x \in \mathbb{R} | \cos(x) \neq 0\} \) \( \rightarrow \) \( \{x \in \mathbb{R} | x \neq \frac{\pi}{2} + n\pi, n \in \mathbb{Z}\} \)
+  2. \( \tan(x + \pi) = \tan(x) \)
+  3. \( \tan(x) = 0 \) \( \Leftrightarrow \) \( \sin(x) = 0 \) \( \Leftrightarrow \) \( x = n \cdot \pi \), \( n \in \mathbb{Z} \)
+
+### Funções Exponenciais:
+- As funções exponenciais são funções da forma \( f(x) = a^x \), onde \( a \in \mathbb{R} \), \( a > 0 \)
+  - \( D_f = \mathbb{R} \)
+  - \( a^x \cdot a^z = a^{x+z} \)
+  - \( a^0 = 1 \)
+  - \( \frac{a^x}{a^z} = a^{x - z} \)
+
+### Funções Logarítmicas:
+- Uma função logarítmica \( g(x) = (\log(a))^x \), onde \( a > 0 \), \( a \neq 1 \)
+  - \( (\log(a))^x = b \) \( \Leftrightarrow \) \( a^b = x \)
+  - \( (\log(a))^{x \cdot z} = (\log(a))^x + (\log(a))^z \)
+  - \( (\log(a))^1 = 0 \)
+  - \( (\log(a))^{x / z} = (\log(a))^x - (\log(a))^z \)
+  - \( (\log(a))^{x^r} = r \cdot (\log(a))^x \), \( r \in \mathbb{R} \)
+  - \( D_g = \{x \in \mathbb{R} | x > 0\} = \left] 0, +\infty \right[ \)
+  - \( \text{Im}(g) = \mathbb{R} \)
+
+Para entender melhor o comportamento dessas funções, você pode esboçar seus gráficos e observar suas características visuais.

@@ -1,0 +1,35 @@
+Exemplos de funções:
+
+OBS: APRENDER A DESENHAR O GRÁFICO DA FUNÇÃO (RETA NO PLANO CARTESIANO)
+
+	1 - Função constante
+		f : R -> R
+			f(x) = c	(c E R, constante)
+			Image(f) = {c} 
+
+
+	2 - Função afim
+		f : R -> R
+			f(x) = ax + b	(a != 0, b E R)
+			Image(f) = R
+
+	3 - Função quadrática
+
+		f : R -> R
+			f(x) = ax^2 + bx + c	(a != 0, b, c E R).
+			Image(f) = {y E R | Y >= 0}
+
+
+		obs: Quando a < 0, a parábola tem concavidade para baixo.
+	
+
+Notações de Intervalos:
+	. [ a, b] = {y E R | a <= y <= b}
+	. ] a, b [ = {y E R | a < y < b}
+	. [ a, b [ = {y E R | a <= y < b}
+	. ] a, b] = { y E R | a < y <= b}
+	. [ a, + infinity [ = {y E R | Y >= a}
+	. ] - infinity. b ] = {y E R | y <= b}
+	. ] a, + infinity [ = {y E R | y > a}
+	. ] - infinity, b [ = {y E R | y < b}
+	. ] - infinity, + infinity [ = R

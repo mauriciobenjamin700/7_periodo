@@ -1,0 +1,65 @@
+Funções Trigonométricas:
+    a = hipotenusa
+    b = cateto oposto
+    c = cateto adjascente
+
+    sen -> Seno = b/a
+    cos -> Coseno = c/d
+    tan -> Tangente = b/c
+    g -> graus = 360º
+
+    f(x) = sen(x) and g(x) == cos(x)
+
+        onde x é medido em radianos (g(360) == 2 * pi(), g(180) == pi())
+
+    Df = dg = R
+    Im(f) = Im(g) = [-1, 1].
+
+
+    Propriedades:
+        1: (sen(x + 2*pi()) == sen(x)) and (con(x + 2 * pi()) == cos(x));
+        2: (sen(a+b) == sen(a) * con(b) * sen(b) * cos(a)) and (cos( a + b) == cos(a) * cos(b) - sen(a) * sen(b))
+        3: (sen(-x) == - sen(x)) and (cos(-x) == cos(x))
+        4: ((sen(x) ^ 2) + (cos(x)^2)) == 1
+        5: (sen(x) == 0 <> x == n * pi(), n E <>) and cos(x) == 0 <> x = n/2 + n * pi(), n E <>
+
+        pesquisar o esboço do gráfico!
+        f(x) == sen(x)
+        f(x) == cos(x)
+
+
+    Função Tangente:
+        h(x) = tg(x) = sen(x) / cos(x)
+            1: Dh = {x E R | cos(x) != 0} -> {x E R | x != (pi()/2), n E ><};
+            2: tg(x + pi()) = tg(X);
+            3: tg(x) == 0 <> sen(x) == 0 <> x == n * pi(), n E <>.
+
+
+    Funções exponenciais:
+        As funções esponenciais são funções da forma f(x) = a ^ x, em que a E R, a > 0
+
+            Df = R;
+            a^x * a^z == a ^(x+z)
+            a^0 == 1
+            (a^x)/(a^z) == a^(x - z)
+
+            esboço do gráfico:
+                1: a > 1
+                2: 0 < a < 1
+                3: a == 1 -> f(x) = 1^x == 1 (constante)
+
+    Funções Logarítimicas:
+        Uma função logarítimica g(x) = (log(a) ^ x), em que a > 0, a != 1.
+            log(a) ^ x == b <> a^b == x;
+            log(a) ^ (x*z) == (log(a) ^ x) + log(a) ^ z;
+            log(a)^1 = 0;
+            log(a) ^ (x/z) == (log(a) ^ x) - (log(a) ^ z );
+            log(a) ^ (x ^ r) == r * (log(a) ^ x), r E R;
+            Dg = {x E R | x > 0} == ] 0, + infinity [   ;
+            Im(g) = r
+
+            esboço do gráfico:
+                1: a > 1
+                2: 0 < a < 1
+
+                

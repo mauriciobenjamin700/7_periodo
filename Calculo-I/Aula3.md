@@ -1,0 +1,31 @@
+Aqui estão exemplos de funções com suas respectivas notações de intervalos:
+
+1. **Função constante**
+   - \( f : \mathbb{R} \rightarrow \mathbb{R} \)
+   - \( f(x) = c \) (onde \( c \in \mathbb{R} \) é uma constante)
+   - \( \text{Image}(f) = \{c\} \)
+
+2. **Função afim**
+   - \( f : \mathbb{R} \rightarrow \mathbb{R} \)
+   - \( f(x) = ax + b \) (onde \( a \neq 0 \) e \( b \in \mathbb{R} \))
+   - \( \text{Image}(f) = \mathbb{R} \)
+
+3. **Função quadrática**
+   - \( f : \mathbb{R} \rightarrow \mathbb{R} \)
+   - \( f(x) = ax^2 + bx + c \) (onde \( a \neq 0 \), \( b \), e \( c \in \mathbb{R} \))
+   - \( \text{Image}(f) = \{y \in \mathbb{R} | y \geq 0\} \)
+
+   Observação: Quando \( a < 0 \), a parábola tem concavidade para baixo.
+
+**Notações de Intervalos:**
+- \( [a, b] \) = \(\{y \in \mathbb{R} | a \leq y \leq b\}\)
+- \( ]a, b[ \) = \(\{y \in \mathbb{R} | a < y < b\}\)
+- \( [a, b[ \) = \(\{y \in \mathbb{R} | a \leq y < b\}\)
+- \( ]a, b] \) = \(\{y \in \mathbb{R} | a < y \leq b\}\)
+- \( [a, +\infty[ \) = \(\{y \in \mathbb{R} | y \geq a\}\)
+- \( ]-\infty, b] \) = \(\{y \in \mathbb{R} | y \leq b\}\)
+- \( ]a, +\infty[ \) = \(\{y \in \mathbb{R} | y > a\}\)
+- \( ]-\infty, b[ \) = \(\{y \in \mathbb{R} | y < b\}\)
+- \( ]-\infty, +\infty[ \) = \(\mathbb{R}\)
+
+Essas são algumas notações comuns de intervalos que podem ser úteis ao trabalhar com funções.

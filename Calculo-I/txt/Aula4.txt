@@ -1,0 +1,82 @@
+Ferramentas de Apoio:
+	https://www.geogebra.org/calculator
+
+Módulo ou valor absoluto:
+	
+	|a| = (a, se a >= 0) ou (-a, se a < 0)
+	
+		se a > 0, |a| = a >= 0
+		se a < 0, |a| = -a > 0
+
+	Funções definidas por partes são funções que são definidas de formas diferentes em partes distintas do domínio.
+		exemplo:
+		
+		1)	f(x) = (x + 1, se x <= 1) ou (x^2, se x > 1)
+
+		Entradas = [0, 1/2, 1, 3/2, 2]
+		Saidas	 = [1, 3/2, 2, 9/4, 4]
+
+		Observações:
+			A função está no domínio dos Reais (R)
+			É interessante esboçar o gráfico para apresentar
+			Ao esboças o gráfico, é interessente sempre começar a origem (se possível zero, ou o número possivel mais proximo dele)
+
+
+		2)	f(x) = |x|	(Função modular) -> ((x, se x >= 0) ou (-x, se x < 0))
+		
+		Entradas = [0,1,-1]
+		Saidas	 = [0,1,1]			
+			
+		Observações:
+			Df (dominio da função) = R
+			É interessante esboçar o gráfico para apresentar
+
+
+Função polinomial:
+	Uma função 'f' é dita polinomial quando:
+		f(x) = a*n*x^n + a*n-1*x^(n-1) + ..... q*1*x+a
+
+	O domínio é sempre Real (R)
+
+	obs: chamados de coeficientes de 'f'. No caso em que an != 0, dizemos que N é o grau do polinômio.
+		n=1, f(x) = a1x + qo
+		n=2, f(x) = a2x^2 + a1x+ao
+		n=3, f(x) = a3x^3+q2x^2+a1x+a0
+
+	ex:
+		f(x) = -2x^3 + raiz_quadrada(2)*x - 1.
+
+Funções Racionais:
+	Uma função racional é uma função 'f' definida como sendo a razão entre dois polinômios, ou seja:
+		f(x) = (P(x) / Q(x))
+
+		onde 'P' e 'Q' são polinômios como na classe anterior (Função polinomial).
+		O domínio (D) da função racional (f) deve ser:
+			Df = (X e R | Q(X) != 0) e (x E R | x não é raiz de Q)
+
+		exemplos:
+			1)	f(x) = 1/x
+				
+				Df = {x E R | x != 0}
+
+				exercício: Esboce o gráfico de f.
+			
+				Entrada: [-2,-1,1,2]
+				Saida: [1/-2, 1, 1/2]
+
+			2) f(x) = (2*x^5 + 3*x + 2) / (x^2 - 4)
+
+				Df = {x E R | (x^2 -4) != 0} and {x E R | x != 2 and x != -2}
+				Matematiques -> Portugues: Todos números rais, tal que x^2-4 seja diferente de 0, logo x deve ser obrigatóriament
+				diferente de 2 ou -2.
+
+
+Função Raiz:
+	A função f(x) = x^(1/n) = raiz(x,n) (raiz n-ésima de x), n E N* (N* == Natual diferente de zero)
+		N é par:
+			Df = {X E R | X >= 0}
+		N é ímpar:
+			Df = R
+		
+
+			

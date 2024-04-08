@@ -1,0 +1,94 @@
+1) Estude o sinal das funções:
+    a) f(x) = (x+1)*(x+2);
+    b) f(x) = (x+1)/(x - 1);
+    c) f(x) = |x + 3| - 5
+
+2) Dê o domínio das funções:
+    a) f(x) = raiz((x+2),2);
+    b) f(x) = x / (x^2-1);
+    c) f(x) = raiz(((x-2)/x+1),2)
+
+
+Respostas:
+    1)
+        a)
+            pt1:
+                >0:
+                    (x + 1) > 0
+                    (x + 1 -1) > (0 - 1)
+                    x > -1
+
+                ==0: 
+                    (x + 1) == 0
+                    (x + 1 -1) > (0 - 1)
+                    x == -1
+
+                <0:                
+                    (x + 1) < 0
+                    (x + 1 -1) < (0 - 1)
+                    x < -1
+            
+            pt2:
+                >0:
+                    (x + 2) > 0
+                    (x + 2 -2) > (0 - 2)
+                    x > -2
+
+                ==0: 
+                    (x + 2) > 0
+                    (x + 2 -2) > (0 - 2)
+                    x == -2
+
+                <0:                
+                    (x + 2) > 0
+                    (x + 2 -2) > (0 - 2)
+                    x < -2
+
+            pt3:
+                > 0:
+                    > -1 or < -2
+                == 0:
+                    == -2 or == -1
+                < 0:
+                    > -2 and < -1
+
+        b)
+            f(x) < 0, quando x E ] -1,1 [
+            f(x) = 0, quando x = -1
+            f(x) > 0, quando x > 1 or x < -1
+        c)
+            
+            (|x+3| - 5) > 0
+                (|x+3| - 5 + 5) > (0 + 5)
+                (|x+3|) > 5
+
+                obs: no caso do modulo, existe um intervalo de possibilidades, chamada de  casos
+                caso 1: (x+3) > 5
+                    (x + 3 - 3) > (5 - 3)
+                    x > 2
+
+                caso 2: -(x+3) > 5
+                    (-x - 3) > 5
+                    (-x -3 + 3) > 5 + 3
+                    -x > 8
+                    Aplicando multiplicação de invesão na propriedade matemática
+                    -1 * (-x > 8)
+                    x < -8
+
+            Logo:
+                se x > 2 ou x < -8, será positivo
+                se x == 2 ou x == -8, será zero
+                se x < 2 and x > -8, será negativo
+
+
+
+                    
+
+
+    2)
+        a)
+            resultado = {X E R | x >= -2}
+        b)
+            resultado = {X E R | x != 1 and x != -1}
+        c)
+            resultado = {X E R | x != -1}

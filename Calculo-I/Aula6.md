@@ -1,0 +1,19 @@
+Operações com funções e composição de funções são conceitos importantes na análise de funções. Aqui está uma explicação sobre cada um deles:
+
+### Operações com Funções:
+1. **Soma de Funções**:
+   - Sejam \( f \) e \( g \) duas funções, então a soma de \( f \) e \( g \), denotada por \( (f + g)(x) \), é dada por \( (f + g)(x) = f(x) + g(x) \).
+
+2. **Produto de Funções**:
+   - Sejam \( f \) e \( g \) duas funções, então o produto de \( f \) e \( g \), denotado por \( (f \cdot g)(x) \), é dado por \( (f \cdot g)(x) = f(x) \cdot g(x) \).
+
+3. **Divisão de Funções**:
+   - Sejam \( f \) e \( g \) duas funções, tal que \( D_f \cap D_g \neq \emptyset \) e \( g(x) \neq 0 \). Então a divisão de \( f \) por \( g \), denotada por \( \left(\frac{f}{g}\right)(x) \), é dada por \( \left(\frac{f}{g}\right)(x) = \frac{f(x)}{g(x)} \).
+
+### Composição de Funções:
+- Sejam \( f \) e \( g \) duas funções, tal que \( \text{Im}(f) \subset D(g) \). A composição de \( f \) e \( g \), denotada por \( (g \circ f) \) ou \( g(f(x)) \), é uma nova função definida por \( (g \circ f)(x) = g(f(x)) \).
+  
+Exemplo:
+- Se \( g(z) = \sqrt{z} \) e \( f(x) = \left| \frac{x-2}{x+1} \right| \), então \( (g \circ f)(x) = g(f(x)) = \sqrt{\left| \frac{x-2}{x+1} \right|} \).
+
+Operações com funções e composição de funções são ferramentas fundamentais na análise e manipulação de funções em matemática. Elas nos permitem combinar e transformar funções de maneiras diversas para resolver problemas e entender o comportamento das funções.

@@ -1,0 +1,20 @@
+Operações com funções:
+    sejam 'f' e 'g' duas funções, tais que Df intersecção Dg != 0. Podemos considerar as funções:
+        1: (f+g)(x) = f(x) + g(x)
+        2: (f*g)(x) = f(x)*g(x)
+        3: (f/g)(x) = f(x)/(gx)   tal que g(X) != 0
+
+Composição de funções:
+    Sejam 'f' e 'g' duas funções, tais que Im(f) contido D(g), definimos a função:
+        gof: Df -> R
+
+        dada por
+            (gof)(x) = g(f(x)).
+
+        exemplo:
+            g(z) = raiz(z)
+            f(x) = |((x-2) / (x+1))|
+
+            gof(x) = g(f(X))
+                    = g(|((x-2) / (x+1))|)
+                    = raiz(|((x-2) / (x+1))|, 2)

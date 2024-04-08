@@ -1,0 +1,96 @@
+# Conjunto dos números reais (R)
+- R = {Q U NOT Q} -> (União dos Racionais com os não racionais)
+- (R, +, *, <=) é um corpo ordenado e completo.
+
+### Exemplo:
+-2, -1, 0, 1, 2
+Onde para cada item da reta podemos associar um único número real.
+
+### Outras Propriedades:
+(i) ((X <= y) and (z <= w)) == (x + z) <= (y + w).
+(ii) ((x + z) == (y + z)) == (x == y).
+(iii) ((0 <= x <= y) and (0 <= z <= w)) == ((x * z) <= (y * w)).
+(iv) ((x * y) == 0) == (x == 0) or (y == 0).
+(v) ((0 <= x) and (0 <= y) and (x <= y) ) ==  (x^2 < y*2)).
+(vi) Tricotomia( (x, y) -> R)
+    (x < y) or (x = y) or (x > y).
+
+### Aplicação das propriedades:
+1. Resolva a inequação: 4x + 3 < 8x + 2
+   Resposta:
+   (4x + 3 - 2) < (8x + 2 - 2)
+   (4x + 1) < (8x)
+   (4x + 1 - 4x) < (8x - 4x)
+   1 < 4x
+   (1 * (1/4)) < 4x * (1/4) == x
+   (1/4) < x
+
+   Logo, para qualquer valor real 'x' maior que (1/4), a inequação é satisfeita.
+
+2. Estude o sinal da expressão: 2x - 4
+   Resposta:
+   Positiva (+) quando: 2x -4 < 0 
+   logo:
+   2x > 4
+   x > (4/2)
+   x > 2
+
+   Neutra () quando: 2x -4 = 0:
+   2x = 4
+   x = 4/2
+   x = 2
+
+   Negativa (-) quando: 2x - 4 < 0:
+   2x < 4
+   x < (4/2)
+   x < 2
+   
+   Conclui-se que sempre que 'x' for:
+   - maior que 2, teremos o sinal positivo (+)
+   - igual a 2, teremos (0)
+   - menor que 2, teremos sinal negativo (-)
+
+# Funções:
+Sejam 'A', 'B' dois conjuntos. Uma função 'f' de A em B, é uma relação que associa cada elemento 'x' em A a um único elemento f(x) em B.
+- Escrev-se da seguinte forma: 
+  - f: A -> B.
+
+**Obs:**
+1. O conjunto A é chamado de domínio de f.
+2. O conjunto B é chamado de contradomínio de f.
+3. f(x) é o valor de f em x. (Lê-se 'f' de 'x')
+4. A 'imagem' de f é o conjunto de todos os valores possíveis de f(x) quando x varia em A.
+
+**Obs importante:** Em geral, A e B sempre serão subconjuntos de R.
+
+### Exemplo:
+- f: N -> N
+  - f(x) = 2x
+
+  1. N é o domínio e contradomínio de f.
+  2. Imagem(f) = {2x | x E N}
+     - ex: {0,2,4,6,...} (Logo todos os números serão pares e o dobro do número Natural passado no argumento da função.)
+
+### Treino para trazer para a aula 3:
+1. f: N -> N:
+   - f(x) = 2x + 1
+
+   **R:** Cada X no domínio está relacionado ao seu dobro + 1
+   - ex: {1,2,3,4} -> {3,5,7,9}
+
+   **Matemáticas:**
+   - Domínio de f é N
+   - Contradomínio de f é N
+   - Image(f) = {1,3,5,7,9,...} = {números ímpares}
+
+2. f: '><' (Inteiros) -> N:
+   - f(x) = x^2
+
+   **R:** Cada X no domínio está relacionado a sua potência de 2
+   - ex: {1,2,3,4} -> {1,4,9,16}
+
+3. f: R* -> R:
+   - f(x) = 1/x (onde R* = {x E R | x != 0})
+  
+   **R:** Cada X no domínio é divisor de 1 no contradomínio e diferente de 0:
+   - ex: {1,2,3,4} -> {1/1, 1/2, 1/3, 1/4}
