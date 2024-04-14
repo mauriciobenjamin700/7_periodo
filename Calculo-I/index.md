@@ -1,6 +1,9 @@
 # Sumário
 
+Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacionamatematica)
+
 ## Prova 1 -> 22/04/2024
+
 
 - [Aula 1](Aulas/01.md)
 - [Aula 2](Aulas/02.md)
