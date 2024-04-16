@@ -1,0 +1,25 @@
+Título do Trabalho: Tendências em Ameaças Cibernéticas e Análise de Caso de Engenharia Social (SEU TÍTULO)
+
+Introdução
+Descreva a importância da segurança da informação e a relevância da pesquisa sobre ameaças e engenharia social. Introduza os objetivos do trabalho e o que será abordado nas seções seguintes.
+
+Parte I: Tendências de Ameaças Cibernéticas (2020 - 2024)
+Nesta seção, apresente um resumo das principais ameaças identificadas durante sua pesquisa, incluindo:
+
+Ameaça 1:
+Descrição da técnica usada pelos agressores, potencial impacto na segurança e medidas preventivas.
+
+Parte II: Estudo de Caso
+Escolha um caso recente e desenvolva as seguintes subseções:
+
+Contexto e Partes Envolvidas:
+Descreva o cenário do incidente, as partes envolvidas e o contexto geral.
+
+Análise do Problema:
+Explique como o incidente foi aplicada e por que foi efetiva.
+
+Solução Proposta ou Implementada:
+Discuta a solução que foi adotada para resolver o problema e avalie sua eficácia. (CASO NÃO TENHA, FAÇA UMA PROPOSTA)
+
+Conclusão
+Resuma os principais pontos discutidos no trabalho, reitere a importância das medidas de prevenção e resposta às ameaças e como o caso estudado contribui para o entendimento e combate.
