@@ -12,4 +12,6 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 - [Aula 5](Aulas/05.md)
 - [Aula 6](Aulas/06.md)
 - [Aula 7](Aulas/07.md)
+- [Aula 8](Aulas/08.md)
+- [Aula 9](Aulas/09.md)
 
