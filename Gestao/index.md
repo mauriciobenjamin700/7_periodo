@@ -6,7 +6,7 @@ Este breve sumário visa auxiliar nos estudos para todas as atividades da dicipl
 
 Data da Prova: 22/04/2024
 
-### Aulas
+### Aulas para a Prova 1
 
 - [Aula 1](Aulas/01.md)
   - Introdução
@@ -21,3 +21,12 @@ Data da Prova: 22/04/2024
   - Recursos e Competências
 - [Aula 5](Aulas/05.md)
   - Recursos e Competências
+
+## Prova 2
+
+Data da Prova:
+
+### Aulas Para a Prova 2
+
+- [Aula 6](Aulas/06.md)
+  - Estrutura Organizacional
