@@ -16,5 +16,6 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 
 ## Prova 2
 
-- [Aula 1](Aulas/10.md)
-- [Aula 1](Aulas/11.md)
+- [Aula 10](Aulas/10.md)
+- [Aula 11](Aulas/11.md)
+- [Aula 12](Aulas/12.md)
