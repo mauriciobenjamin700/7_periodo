@@ -30,3 +30,9 @@ Data da Prova:
 
 - [Aula 6](Aulas/06.md)
   - Estrutura Organizacional
+- [Aula 7](Aulas/07.md)
+  - Estrutura Informal
+    - Vantagens
+    - Desvantagens
+    - Fatores que condicionam o recimento dos grupos informais
+  - Componentes da Estrutura Organizacional
