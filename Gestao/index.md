@@ -36,3 +36,5 @@ Data da Prova:
     - Desvantagens
     - Fatores que condicionam o recimento dos grupos informais
   - Componentes da Estrutura Organizacional
+- [Aula 8](Aulas/08.md)
+- [Aula 9](Aulas/09.md)
