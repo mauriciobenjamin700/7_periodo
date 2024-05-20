@@ -16,6 +16,15 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 
 ## Prova 2
 
+- Limites de Função Composta
+- Teorema do Confronto
+- Limite Fundamental
+- Limites no Infinito
+- Limites Infinitos
+- Introdução à derivadas
+
 - [Aula 10](Aulas/10.md)
 - [Aula 11](Aulas/11.md)
 - [Aula 12](Aulas/12.md)
+- [Aula 13](Aulas/13.md)
+- [Aula 14](Aulas/14.md)
