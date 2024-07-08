@@ -58,3 +58,9 @@ Data da Prova: 17/06/2024
     - Vantagem Competitiva
     - Característiccas da Vantagem Competitiva
     - Tomada de Decisões
+- [Aula 12](Aulas/12.md)
+  - Análise SWOT
+    - Pontos Fortes
+    - Pontos Fracos
+    - Oportunidades
+    - Ameaças
