@@ -64,3 +64,5 @@ Data da Prova: 17/06/2024
     - Pontos Fracos
     - Oportunidades
     - Ameaças
+- [Aula 13](Aulas/13.md)
+- [Aula 14](Aulas/14.md)
