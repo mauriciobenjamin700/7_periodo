@@ -28,3 +28,10 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 - [Aula 12](Aulas/12.md)
 - [Aula 13](Aulas/13.md)
 - [Aula 14](Aulas/14.md)
+- [Aula 15](Aulas/15.md)
+- [Aula 16](Aulas/16.md)
+- [Aula 17](Aulas/17.md)
+
+## Prova 3
+
+- Derivada do Expoencial
