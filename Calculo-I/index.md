@@ -32,6 +32,8 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 - [Aula 16](Aulas/16.md)
 - [Aula 17](Aulas/17.md)
 
-## Prova 3
+## Prova 3 (12/08/2024)
 
-- Derivada do Expoencial
+- Derivada
+
+## Prova Final (15/08/2024)
