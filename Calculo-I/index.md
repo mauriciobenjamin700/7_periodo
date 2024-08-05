@@ -31,6 +31,10 @@ Material de Apoio [Equaciona com Paulo Pereira](https://www.youtube.com/@equacio
 - [Aula 15](Aulas/15.md)
 - [Aula 16](Aulas/16.md)
 - [Aula 17](Aulas/17.md)
+- [Aula 18](Aulas/18.md)
+- [Aula 19](Aulas/19.md)
+- [Aula 20](Aulas/20.md)
+- [Aula 21](Aulas/21.md)
 
 ## Prova 3 (12/08/2024)
 
